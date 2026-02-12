@@ -1,0 +1,7 @@
+{
+  "peticion_get": "http.request",
+  "json_codificar": "json.encode",
+  "json_decodificar": "json.decode",
+  "ia_analizar": "print('-- Simulando Análisis de IA G-Code --')",
+  "ia_entrenar": "print('-- Optimizando pesos del modelo en Cluaray --')"
+}
