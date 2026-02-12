@@ -1,0 +1,6 @@
+{
+  "limpiar": "os.execute('clear')",
+  "esperar": "os.execute('sleep 1')",
+  "fecha": "os.date()",
+  "salir": "os.exit()"
+}
