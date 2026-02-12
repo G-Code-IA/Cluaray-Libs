@@ -10,4 +10,4 @@ Ejemplo
 ```
 
 ## 🏫Educación
-Las librerias personalizadas permiten el uso de ⚡Cluaray para el aprendizaje de programación por defecto en este repositorio hay una libreri dirigida principalmente para estudiantes la cuale tiene por nombre Matematicas_avanzas.
+Las librerias personalizadas permiten el uso de ⚡Cluaray para el aprendizaje de programación por defecto en este repositorio hay una libreria dirigida principalmente para estudiantes la cual tiene por nombre Matematicas_avanzas.
