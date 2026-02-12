@@ -4,9 +4,10 @@ En este repositorio encontrarás todo tipo de archivos json que funcionan como l
 ## 👷Creación de librerías
 Si quisieras apoyar a este repositorio con tu propia librería puedes seguir la guía de creación del blog de ⚡Cluaray se agradece tu apoyo tu librería la puedes compartir en este repositorio o por aparte.
 Debes de crear tu archivo json siguiendo la guía del siguiente blog LINK DEL BLOG debes de respetar las reglas para publicar tu librería delo contrario no se aceptara en este repositorio.
+Ejemplo
 ```json
 
 ```
 
 ## 🏫Educación
-Las librerias personalizadas permiten el uso de ⚡Cluaray para aprendizaje de programación por defecto en este repositorio hay dos librerias dirigidas principalmente para estudiantes 
+Las librerias personalizadas permiten el uso de ⚡Cluaray para el aprendizaje de programación por defecto en este repositorio hay una libreri dirigida principalmente para estudiantes la cuale tiene por nombre Matematicas_avanzas.
