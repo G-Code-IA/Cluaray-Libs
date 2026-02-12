@@ -5,6 +5,7 @@ En este repositorio encontrarás todo tipo de archivos JSON que funcionan como l
 Si quieres apoyar este proyecto con tu propia librería, ¡eres bienvenido!
 Guía de creación: Puedes seguir los pasos detallados en nuestro Blog de Cluaray (LINK).
 Reglas: Debes respetar las reglas de sintaxis y nombrado descritas en el blog; de lo contrario, la librería no podrá ser aceptada en este repositorio oficial para garantizar la estabilidad del lenguaje.
+
 Ejemplo de estructura (libreria.json):
 ```
 {
