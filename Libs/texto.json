@@ -1,0 +1,7 @@
+{
+  "mayusculas": "string.upper",
+  "minusculas": "string.lower",
+  "invertir": "string.reverse",
+  "largo": "string.len",
+  "repetir": "string.rep"
+}
