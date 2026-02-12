@@ -1,13 +1,18 @@
-## ⚡Cluaray-Libs📘
-En este repositorio encontrarás todo tipo de archivos json que funcionan como librerías para ⚡Cluaray.
+# ⚡ Cluaray-Libs 📘
+En este repositorio encontrarás todo tipo de archivos JSON que funcionan como librerías modulares para potenciar el lenguaje ⚡ Cluaray.
 
-## 👷Creación de librerías
-Si quisieras apoyar a este repositorio con tu propia librería puedes seguir la guía de creación del blog de ⚡Cluaray se agradece tu apoyo tu librería la puedes compartir en este repositorio o por aparte.
-Debes de crear tu archivo json siguiendo la guía del siguiente blog LINK DEL BLOG debes de respetar las reglas para publicar tu librería delo contrario no se aceptara en este repositorio.
-Ejemplo
-```json
-
+## 👷 Creación de librerías
+Si quieres apoyar este proyecto con tu propia librería, ¡eres bienvenido!
+Guía de creación: Puedes seguir los pasos detallados en nuestro Blog de Cluaray (LINK).
+Reglas: Debes respetar las reglas de sintaxis y nombrado descritas en el blog; de lo contrario, la librería no podrá ser aceptada en este repositorio oficial para garantizar la estabilidad del lenguaje.
+Ejemplo de estructura (libreria.json):
+```
+{
+  "raiz_cuadrada": "math.sqrt",
+  "tiempo_espera": "os.execute('sleep 1')",
+  "limpiar_pantalla": "os.execute('clear')"
+}
 ```
 
-## 🏫Educación
-Las librerias personalizadas permiten el uso de ⚡Cluaray para el aprendizaje de programación por defecto en este repositorio hay una libreria dirigida principalmente para estudiantes la cual tiene por nombre Matematicas_avanzas.
+## 🏫 Educación
+Las librerías personalizadas permiten adaptar ⚡ Cluaray a cualquier nivel educativo. Por defecto, en este repositorio incluimos la librería matematicas_avanzadas.json, diseñada específicamente para estudiantes que necesitan herramientas de cálculo complejas con nombres de comandos sencillos y en español.
