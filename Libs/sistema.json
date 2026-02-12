@@ -1,0 +1,7 @@
+{
+  "ejecutar": "os.execute",
+  "tiempo_cpu": "os.clock",
+  "nombre_so": "os.getenv('OS') or 'Linux/Android'",
+  "borrar_archivo": "os.remove",
+  "renombrar": "os.rename"
+}
