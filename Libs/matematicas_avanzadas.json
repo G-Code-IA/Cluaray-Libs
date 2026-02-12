@@ -1,0 +1,11 @@
+{
+  "raiz": "math.sqrt",
+  "absoluto": "math.abs",
+  "azar": "math.random",
+  "seno": "math.sin",
+  "coseno": "math.cos",
+  "tangente": "math.tan",
+  "pi": "math.pi",
+  "redondear_arriba": "math.ceil",
+  "redondear_abajo": "math.floor"
+}
